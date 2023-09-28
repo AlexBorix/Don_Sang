@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721937541537",
+    "project_id": "don-de-sang-561f9",
+    "storage_bucket": "don-de-sang-561f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721937541537:android:b485fb38fe2a8abf1543e0",
+        "android_client_info": {
+          "package_name": "com.example.don_sang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-1Vw7Jav8dzwPbp1hQbyes5VZARhHIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
